@@ -1,4 +1,8 @@
 # Computational Musicology
+
+## Corpus
+You can find the exact corpus on: https://open.spotify.com/playlist/0kojyfPUkAer4jsf4RSzDH?si=ryL0pYpGSxebBUsXJ38I-w
+
 ## Introduction
 In this portfolio, a distinction is made between the music of three major Star Wars series. These series are The Star Wars movies, composed by John Williams, the Clone Wars series, composed by Kevin Kiner, and the Mandalorian series, composed by Ludwig Goransson. The corpus exists of three times forty songs, forty songs per composer. I think it would be interesting to look into the differences between their music and to see if it is possible to distinguish between them. 
 
